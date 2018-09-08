@@ -14,7 +14,7 @@
 - Done!
 
 ### Config:
-```javascript
+```rude
 Message-On-Place-Sign: |-
 &7|
 &7| &cYou are muted by &r%player%.
