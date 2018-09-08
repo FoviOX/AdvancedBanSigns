@@ -14,9 +14,9 @@ How to install:
 
 Config:
 >Message-On-Place-Sign: |-
->        &7|
->        &7| &cYou are muted by &r%player%.
->        &7| &cReason &r%reason%
->        &7| &cTime &r%time%
->        &7|
+        &7|
+        &7| &cYou are muted by &r%player%.
+        &7| &cReason &r%reason%
+        &7| &cTime &r%time%
+        &7|
  
