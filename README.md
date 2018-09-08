@@ -1,19 +1,19 @@
-### AdvancedBanSigns
+# AdvancedBanSigns
 
-# Features
+### Features
 - Small plugin size
 - Optimized
 - Cancel place sign, if player muted
 
-# Dependencies:
+### Dependencies:
 - Advancedban
 
-# How to install:
+### How to install:
 - Put plugin AvancedBanSigns in plugin folder
 - Restart/Reload server
 - Done!
 
-# Config:
+### Config:
 Message-On-Place-Sign: |-
         &7|
         &7| &cYou are muted by &r%player%.
