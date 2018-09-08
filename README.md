@@ -1,4 +1,4 @@
-## AdvancedBanSigns
+### AdvancedBanSigns
 
 # Features
 - Small plugin size
@@ -9,11 +9,11 @@
 - Advancedban
 
 # How to install:
-1) Put plugin AvancedBanSigns in plugin folder
-2) Restart/Reload server
-3) Done!
+- Put plugin AvancedBanSigns in plugin folder
+- Restart/Reload server
+- Done!
 
-#Config:
+# Config:
 Message-On-Place-Sign: |-
         &7|
         &7| &cYou are muted by &r%player%.
